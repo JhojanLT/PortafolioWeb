@@ -1,0 +1,4 @@
+abrir el proyecto en la terminal y usar
+
+npm install
+npm run dev 
