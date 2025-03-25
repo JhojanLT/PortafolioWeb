@@ -1,0 +1,16 @@
+.app-container {
+  padding: 5rem;
+  display: flex;
+  gap: 5rem;
+  /* height: 100vh; */
+}
+.side-nav {
+  width: 30%;
+  background-color: #333; /* Solo para visualizarlo */
+  color: white;
+  padding: 20px;
+}
+
+.album {
+  width: 70%;
+}

@@ -1,0 +1,11 @@
+.image {
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /*Transition se pone aquí para que la animacion ocurra al entrar y salir de la imagen*/
+  width: 100%;
+  border-radius: 10px;
+  height: auto;
+}
+
+.image:hover {
+  transform: scale(1.1);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 2);
+}
